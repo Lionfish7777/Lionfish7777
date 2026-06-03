@@ -34,15 +34,6 @@ focus algorithm surfaces the three tasks that matter most right now, not just th
 most recently added ones. We built every piece of this asking whether it would hold
 up under real conditions.
 
-**[Papap Advisor](https://github.com/Lionfish7777/papap-advisor)**
-We built this as a full product concept because we wanted to understand what it means
-to give a software product a genuine human point of view. Papap is a financial advisor
-with a real personality. A market veteran born in 1942, built to deliver eighty years
-of wisdom through the intimacy of a text conversation. Powered by Claude and ElevenLabs.
-Building this taught us how to structure multi turn AI context, how to manage timed UI
-responses so the experience feels human, and how to treat product character as a real
-design constraint rather than an afterthought.
-
 **[Buzz Intelligence](https://github.com/Lionfish7777/buzz-intelligence)**
 The global bee economy generates $577B in agricultural value annually and no serious
 data platform existed for it. We built one as a full product concept. A live Three.js
