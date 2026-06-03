@@ -58,6 +58,13 @@ integration, section scoping, and snippet composition with real merchant use cas
 mind sharpened how we think about building for people who will never touch the code.
 
 
+## How We Work
+
+We use AI tools daily as part of our development workflow, primarily Claude Code and ChatGPT. We leverage them to debug issues, explain unfamiliar code, generate implementation ideas, review architecture decisions, and accelerate learning when working with new technologies.
+
+Claude Code has been especially valuable for helping us build and iterate on web applications, Shopify Liquid projects, and JavaScript based tools. We treat AI as a development partner that helps us move faster while still validating solutions through testing, documentation, and hands on implementation.
+
+
 ## What We Are Looking For
 
 Junior developer and software engineering roles where we can contribute from day one,
@@ -70,8 +77,8 @@ and any engineers who are further along than we are as well.
 
 ## Stack
 
-HTML, CSS, JavaScript, React, Node.js, Express, PostgreSQL, Stripe, Claude API,
-ElevenLabs, Liquid (Shopify), Git, GitHub, Railway, Netlify
+HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, PostgreSQL, SQL, Stripe, Claude API,
+ElevenLabs, Shopify Liquid, APIs, Git / GitHub, Railway, Netlify, Claude Code, ChatGPT, AI Assisted Development
 
 lionfish.builds@gmail.com
 Bluffton, SC
