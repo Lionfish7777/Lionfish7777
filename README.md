@@ -72,4 +72,5 @@ HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, PostgreSQL, SQL, Str
 ElevenLabs, Shopify Liquid, APIs, Git / GitHub, Railway, Netlify, Claude Code, ChatGPT, AI Assisted Development
 
 nicolas@lionfishbuilds.com
+zacary@lionfishbuilds.com
 Bluffton, SC
