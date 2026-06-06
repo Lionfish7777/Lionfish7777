@@ -71,5 +71,5 @@ and any engineers who are further along than we are as well.
 HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, PostgreSQL, SQL, Stripe, Claude API,
 ElevenLabs, Shopify Liquid, APIs, Git / GitHub, Railway, Netlify, Claude Code, ChatGPT, AI Assisted Development
 
-lionfish.builds@gmail.com
+nicolas@lionfishbuilds.com
 Bluffton, SC
